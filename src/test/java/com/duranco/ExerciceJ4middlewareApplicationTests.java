@@ -16,9 +16,7 @@ public void init()
 {
 p=new Premier(7);	
 }
-	@Test
-	void contextLoads() {
-	}
+	
 	
 	@Test
 	public void testPremier()
